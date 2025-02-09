@@ -1,4 +1,4 @@
-# javaAlarmClock
+# javaAlarmClock⏰
 
 This is a simple alarm clock program that runs in the CLI! 
 
